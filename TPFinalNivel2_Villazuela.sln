@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpIntegrador", "TpIntegrador\TpIntegrador.csproj", "{397AB394-F741-4DAF-BEA9-D95671AA024E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{5BF48BB9-430E-4F52-A6F6-931F1171CB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{FD7351CA-3FDA-4539-A649-F93DB4D888F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397AB394-F741-4DAF-BEA9-D95671AA024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397AB394-F741-4DAF-BEA9-D95671AA024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397AB394-F741-4DAF-BEA9-D95671AA024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397AB394-F741-4DAF-BEA9-D95671AA024E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF48BB9-430E-4F52-A6F6-931F1171CB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF48BB9-430E-4F52-A6F6-931F1171CB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF48BB9-430E-4F52-A6F6-931F1171CB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF48BB9-430E-4F52-A6F6-931F1171CB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7351CA-3FDA-4539-A649-F93DB4D888F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7351CA-3FDA-4539-A649-F93DB4D888F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7351CA-3FDA-4539-A649-F93DB4D888F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7351CA-3FDA-4539-A649-F93DB4D888F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8D7F68-4C57-479D-BFF9-F64B94E2814B}
+	EndGlobalSection
+EndGlobal
